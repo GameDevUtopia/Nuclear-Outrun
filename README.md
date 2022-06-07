@@ -5,12 +5,12 @@ This is a LOVE2D game designed fro thr game jam hosted by AIT,Pune. The theme of
 There are 2 players in this game which are dependent on each other.
 
 Keys to control Player1:-
-W= To Jump
-D= To move on Right Side 
-A= To moce on Left Side 
+W= To Jump,
+D= To move on Right Side, 
+A= To moce on Left Side, 
 
 Keys to control Player2:-
-up= To jump
-right= To move on Right Side
-left= To move on Left Side 
+up= To jump,
+right= To move on Right Side,
+left= To move on Left Side ,
 
